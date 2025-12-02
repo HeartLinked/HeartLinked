@@ -6,7 +6,7 @@
 
 - 🎓 **Education:**
   - Peking University | Master of Engineering in Software Engineering (2024 - 2027 Expected)
-  - Zhejiang University | Bachelor of Science in Computer Science and Technology
+  - Zhejiang University | Bachelor of Engineering in Computer Science and Technology
 - 💻 **Tech Stack:**
   - **Languages:** Java, C++, Rust, Go
   - **Interests:** High-performance data infrastructure, Distributed Systems
