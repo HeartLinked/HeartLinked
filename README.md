@@ -10,5 +10,4 @@
 - 💻 **Tech Stack:**
   - **Languages:** Java, C++, Rust, Go
   - **Interests:** High-performance data infrastructure, Distributed Systems
-- 📝 **Writing:** I share my thoughts and technical notes on my [Personal Blog](https://www.yuque.com/lfyhl0907).
 - 📫 **Contact:** You can reach me at `lifeiyang@zju.edu.cn`.
