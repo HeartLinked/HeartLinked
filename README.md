@@ -9,5 +9,5 @@
   - Zhejiang University | Bachelor of Engineering in Computer Science and Technology
 - 💻 **Tech Stack:**
   - **Languages:** Java, C++, Rust, Go
-  - **Interests:** High-performance data infrastructure, Distributed Systems
+  - **Interests:** High-performance data/AI infrastructure
 - 📫 **Contact:** You can reach me at `lifeiyang@zju.edu.cn`.
