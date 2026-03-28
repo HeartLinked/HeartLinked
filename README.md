@@ -11,5 +11,5 @@
   - **Languages:** Java, C++, Rust, Go
   - **Interests:** High-performance data/AI infrastructure
 - 📫 **Contact:** You can reach me at:
-  - **Email**: `lifeiyang@zju.edu.cn`.
+  - **Email**: `lifeiyang@zju.edu.cn`
   - **Wechat**: lfyhl0907
