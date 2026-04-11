@@ -8,7 +8,7 @@
   - Peking University | Master of Engineering in Software Engineering (2024 - 2027 Expected)
   - Zhejiang University | Bachelor of Engineering in Computer Science and Technology
 - 💻 **Tech Stack:**
-  - **Languages:** Java, C++, Rust, Go
+  - **Languages:** C++, Rust, Java, Python, Go
   - **Interests:** High-performance AI/Data Infrastructure
 - 📫 **Contact:** You can reach me at:
   - **Email**: `lifeiyang@zju.edu.cn`
